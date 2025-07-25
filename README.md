@@ -10,7 +10,4 @@ A simple Python script that resizes all images in a folder to a specified size u
 
 ## 📂 Folder Structure
 
-image-resizer-tool/
-  |--- image_resizer.py # Main Python script
-  |--- images/ # 📥 Place original images here
-  |--- resized/ # 📤 Auto-created folder for resized images
+<pre> ## 📁 Folder Structure ``` image-resizer-tool/ │ ├── image_resizer.py # Main Python script ├── images/ # 📥 Place original images here └── resized/ # 📤 Auto-created folder for resized images ``` </pre>
